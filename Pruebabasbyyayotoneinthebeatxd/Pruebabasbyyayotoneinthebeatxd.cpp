@@ -13,6 +13,9 @@ int main()
 	printf("ooooh mi lente de contacto :vvvvvv arroba angel (aunque no use lentes de contacto xdddd)");
 	printf("aaarrrrrrrrrrrrroba");
 	printf("aaarrrrrrrrrrrrroba"); printf("angel");
+
+	std::cout << "Yayoyayotoneeeeeeinthebeaaaaatxdhaceunañoquenoprogramoconyayotoneinthebeatxd!\n";
+
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
