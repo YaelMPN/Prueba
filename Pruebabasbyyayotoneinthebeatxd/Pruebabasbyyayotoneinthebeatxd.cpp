@@ -16,6 +16,15 @@ int main()
 
 	std::cout << "Yayoyayotoneeeeeeinthebeaaaaatxdhaceunañoquenoprogramoconyayotoneinthebeatxd!\n";
 
+	printf("SOPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa DEEEEEEEEEEEEEEEEEEEEEEEEEEEe PAPAAAAAAAAAAAAAAAA Ayuda estoy sentado");
+
+	printf("el día de hoy Comí un chOri pan Me gustO Mucho Ese chori pan,,,, SEXO ANAAAAAAAAAALLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL ");
+	do
+	{
+		printf("SEXOO ANAAAAAAAAAAL ARRRRRRRRRRRRROBAAAAAAA yayo BUBURrRRrRRrrrRRrRRrRrrrrrrRRRrRRrRRrRon");
+
+		printf("Jueves de helados y de beber\n");
+	} while (true);
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
